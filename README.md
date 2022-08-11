@@ -1,0 +1,1 @@
+In this project, I examined the salary estimates of the players using the Hitters data set.
